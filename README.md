@@ -6,7 +6,7 @@ A solução é dividida em três partes:
 - Aplicativo Web em Python
 - Serviço de Broker MQTT
 
-Para o Broker MQTT pode ser usado qualquer serviço disponível como o EMQ X cloud [https://www.emqx.com/en/cloud] ou HiveMQ [https://www.hivemq.com/public-mqtt-broker/]. Após a configuração do ambiente do servidor.
+Para o Broker MQTT pode ser usado qualquer serviço disponível como o EMQ X cloud [https://www.emqx.com/en/cloud] ou HiveMQ [https://www.hivemq.com/public-mqtt-broker/]. Após a configuração e inicialização do ambiente do servidor, anote as configurações para incluí-las no dispositivo e no aplicativo python.
 
 Para Montagem do dispositivo são necessários os seguintes componentes:
 - NodeMCU
